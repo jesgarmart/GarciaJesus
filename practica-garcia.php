@@ -5,7 +5,7 @@
  * Este archivo contiene funciones simples para demostrar
  * el uso de phpDocumentor en un contenedor Docker.
  * 
- * @author Garcia
+ * @author Jesus
  * @version 1.0
  */
 
